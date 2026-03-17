@@ -8,6 +8,8 @@
 
 GDRIVE link: https://drive.google.com/drive/folders/19oy7WYlHUFdy3h8TCm34t7I_FQAkSr_o?usp=sharing 
 
+COLAB Link: https://colab.research.google.com/drive/1TJq8AiOhKOnPKB0m7CL4PoVuwdZ0rGMn?usp=sharing
+
 Guide Questions (Student Reflection & Explanation)
 
 
